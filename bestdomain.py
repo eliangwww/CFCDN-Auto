@@ -60,7 +60,7 @@ if __name__ == "__main__":
     
     # 示例URL和子域名对应的IP列表
     subdomain_ip_mapping = {
-        'bestproxy': 'https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/BestAli/bestaliv4.txt',
+        'proxy': 'https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/BestAli/bestaliv4.txt',
         'cf': 'https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/BestCF/bestcfv4.txt'
         # 添加更多子域名和对应的IP列表URL
     }
